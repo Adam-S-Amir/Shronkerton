@@ -1,4 +1,4 @@
 # Shronkerton
 My first attempt at a Shrek-themed app
 <hr>
-![Screenshot](Screenshot-1.png)
+![alt text](https://github.com/MagnusMarx/Shronkerton/blob/main/Screenshot-1.png)
